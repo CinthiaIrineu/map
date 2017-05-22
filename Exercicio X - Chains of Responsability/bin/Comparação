@@ -1,0 +1,8 @@
+No exemplo do Banco é preciso tomar cuidado para garantir que as chamadas sejam 
+realmente respondidas, ja que cada elemento implementa sua prória maneira de responder a aquisição.
+Uma vez que perceba que a estrutura de cadeia não possui qualquer informação sobre as 
+classes que compõem a cadeia.
+
+No exemplo da aula tem uma fábrica de filtros o uma uma estrutura de cadeia determinada.
+
+Como disse Marcos Brizeno, "Cada problema exige o seu próprio cuidado".
